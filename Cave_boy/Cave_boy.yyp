@@ -135,6 +135,14 @@
             }
         },
         {
+            "Key": "57496a09-156d-4e07-8ab6-e22256ae7d79",
+            "Value": {
+                "id": "f34b9de5-dd49-413f-ac1f-f28448970365",
+                "resourcePath": "sounds\\a_jump\\a_jump.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "5e7d30d0-3d03-4a54-af61-ea92d0f460a9",
             "Value": {
                 "id": "f6eabbf2-0865-4802-9ba5-01e6bc66fbae",
@@ -204,6 +212,14 @@
                 "id": "5ca5065f-f55b-4cfa-abf5-ab5467116af0",
                 "resourcePath": "views\\93e4304e-41d1-43c1-b0ec-b804ca02939d.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "9a7ccaec-3964-44f9-8b4c-6b5c9f06be97",
+            "Value": {
+                "id": "bd88705e-bf55-44b1-9135-cd7f69a536f6",
+                "resourcePath": "sounds\\a_step\\a_step.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -320,7 +336,8 @@
         }
     ],
     "script_order": [
-        
+        "6b3aa3aa-1984-4406-88a6-38cdbce10a46",
+        "b49dafd2-34c5-4814-8eed-05dc90defd9b"
     ],
     "tutorial": ""
 }
