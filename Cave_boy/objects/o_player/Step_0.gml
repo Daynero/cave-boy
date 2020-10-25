@@ -1,4 +1,4 @@
-/// @description Controlling the player state
+ /// @description Controlling the player state
 
 #region Set up controls for the player
 right = keyboard_check(vk_right);
