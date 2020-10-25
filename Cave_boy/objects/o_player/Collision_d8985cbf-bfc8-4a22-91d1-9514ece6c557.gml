@@ -5,6 +5,6 @@ if (up && other.visible == true) {
 	audio_play_sound(a_exit, 4, false);
 	audio_stop_sound(a_jump);
 }
-if (room == r_boss) {
-	game_restart();	
+if (room == r_boss) && up && other.visible == true{
+	game_restart();
 }

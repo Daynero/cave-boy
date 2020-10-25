@@ -10,3 +10,7 @@ if (room == r_title) && (keyboard_check(vk_space)) {
 if (!audio_is_playing(a_title)) && (!audio_is_playing(a_cave)) {
 	audio_play_sound(a_cave, 10, true);	
 }
+
+
+
+
